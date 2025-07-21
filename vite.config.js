@@ -6,7 +6,7 @@ export default defineConfig({
   plugins: [react()],
   build: {
     lib: {
-      entry: path.resolve(__dirname, 'src/index.js'),
+      entry: path.resolve(__dirname, 'index.js'),
       name: 'GorillaUI',
       fileName: (format) => `gorillaui.${format}.js`,
     },

@@ -1,0 +1,44 @@
+.joyful-categories {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  gap: 24px;
+  padding: 30px 10px;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.joyful-category {
+  width: 120px;
+  height: 140px;
+  background-color: #ffffff;
+  border-radius: 16px;
+  box-shadow: 1px 4px 10px rgba(0, 0, 0, 0.05);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  transition: all 0.3s ease;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.joyful-category:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.08);
+}
+
+.joyful-category img {
+  width: 110px;
+  height: 80px;
+  margin-bottom: 10px;
+  object-fit: contain;
+}
+
+.joyful-category p {
+  font-size: 13px;
+  font-weight: 600;
+  color: #333;
+  margin: 0;
+  line-height: 1.2;
+}

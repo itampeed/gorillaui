@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "type": "module",
   "main": "dist/gorillaui.umd.js",
-  "module": "dist/gorillaui.js",
+  "module": "dist/gorillaui.es.js",
   "exports": {
     ".": {
-      "import": "./dist/gorillaui.js",
+      "import": "./dist/gorillaui.es.js",
       "require": "./dist/gorillaui.umd.js"
     }
   },
