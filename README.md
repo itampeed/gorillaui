@@ -1,6 +1,7 @@
 # GorillaUI 🦍
 
-A lightweight, reusable React component library built for speed, simplicity, and style.
+A lightweight, reusable React component library built for speed, simplicity, and style.  
+🛠 **Open Source** and maintained by the community — [Contribute on GitHub](https://github.com/itampeed/gorillaui)
 
 ### ✨ Features
 
@@ -8,7 +9,7 @@ A lightweight, reusable React component library built for speed, simplicity, and
 - 🎨 Customizable
 - 📦 Ready for production
 - 🌍 Community-driven
-- 🛠 Open Source and maintained by the community
+- 🔧 Modular and composable components
 
 ---
 

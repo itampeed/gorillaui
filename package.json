@@ -1,6 +1,6 @@
 {
   "name": "@itampeed/gorillaui",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "main": "dist/gorillaui.umd.js",
   "module": "dist/gorillaui.es.js",
